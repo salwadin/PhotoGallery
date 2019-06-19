@@ -4,7 +4,6 @@ h1{
   font-family: 'Rubik', sans-serif;
   font-size: 80px;
   margin-left:435px;
-  margin-right: 307px;
   padding-right: : 8px;
   text-decoration: underline;
 }
@@ -32,6 +31,5 @@ img{
   h1{
     font-size:30px;
     margin-left:120px;
-    margin-right:90px;
   }
 }
