@@ -6,8 +6,6 @@ h1{
   margin-left:435px;
   margin-right: 307px;
   padding-right: : 8px;
-  border:10px solid black;
-  border-radius: 10px;
   text-decoration: underline;
 }
 img{
@@ -26,6 +24,7 @@ img{
     width:60%;
     height:550px;
     margin-left: 80px;
+
 
 }
 }
